@@ -10,6 +10,7 @@ This downloads them to a folder called ~/Downloads/Backgrounds/
 The location can be modified in the js code but it has to be relative to the Downloads directory.
 
 # Example
-![alt tag](https:///github.com/Kurtis-N/ChromeBackgroundExtension/blob/master/screenshot.png)
+![](https://github.com/Kurtis-N/ChromeBackgroundExtension/blob/master/screenshot.png)
+
 Refer to the screenshot to see how it looks
 https://github.com/Kurtis-N/ChromeBackgroundExtension/blob/master/screenshot.png
