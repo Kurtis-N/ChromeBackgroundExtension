@@ -13,3 +13,6 @@ The location can be modified in the js code but it has to be relative to the Dow
 Refer to the screenshot to see how it looks.  The 7th line now contains "Add to Background Displays" which when clicked will save the image directly to the folder.
 ![](https://github.com/Kurtis-N/ChromeBackgroundExtension/blob/master/screenshot.png)
 The image is now part of your background photos!
+
+# How to Install
+Download the zip and expand it. Open Chrome and navigate to chrome://extensions/ select "Load unpacked extension" and choose the "ChromeBackgroundExtension-master" folder you unzipped.  Chrome will need to be in developer mode which is a small checkbox on the top of the extensions page.
